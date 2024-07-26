@@ -14,7 +14,7 @@ Prerequisites: Ensure you have Python 3 and OpenCV (pip install opencv-python) i
 MediaPipe: Follow the official installation instructions at [invalid URL removed].
 Usage:
 
-Clone the Repository: Use git clone https://github.com/your-username/pose-estimation-exercise-tracker.git
+Clone the Repository: Use git clone https://github.com/harsharajkumar/personal-trainer-using-cv.git
 Run the Script: Execute python main.py (replace main.py with your script's filename if different).
 Webcam Access: The script will automatically access your webcam for pose detection. Press q to quit.
 Configuration (Optional):
